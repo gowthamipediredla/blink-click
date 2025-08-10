@@ -1,2 +1,2 @@
 # blink-click
-[Created with CodeSandbox](https://blink-click.vercel.app/)
+(https://blink-click.vercel.app/)
