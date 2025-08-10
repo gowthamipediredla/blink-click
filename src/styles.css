@@ -1,0 +1,58 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.block {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.green {
+  background-color: #2ecc71; /* Emerald green */
+}
+
+.red {
+  background-color: #e74c3c; /* Soft crimson */
+}
+
+.blue {
+  background-color: #0076ce; /* Soft sky blue */
+}
+.mt {
+  margin-top: 10px;
+}
+
+.mb-20 {
+  margin-bottom: 30px;
+}
+
+button {
+  background-color: aquamarine;
+  border: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.score-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+.score-container div {
+  font-weight: bold;
+  color: #333;
+}
